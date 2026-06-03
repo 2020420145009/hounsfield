@@ -1,0 +1,139 @@
+{"id": "M3D-9_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-12_mcq_vqa_4", "reason": "external_info_leak"}
+{"id": "M3D-12_mcq_vqa_5", "reason": "external_info_leak"}
+{"id": "M3D-15_mcq_vqa_5", "reason": "external_info_leak"}
+{"id": "M3D-15_mcq_vqa_6", "reason": "external_info_leak"}
+{"id": "M3D-17_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-17_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-19_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-22_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-22_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-22_mcq_vqa_5", "reason": "external_info_leak"}
+{"id": "M3D-27_mcq_vqa_6", "reason": "external_info_leak"}
+{"id": "M3D-28_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-30_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-30_mcq_vqa_3", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-31_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-32_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-33_mcq_vqa_4", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-34_mcq_vqa_5", "reason": "external_info_leak"}
+{"id": "M3D-35_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-35_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-39_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-47_mcq_vqa_6", "reason": "answer_changed"}
+{"id": "M3D-56_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-56_mcq_vqa_5", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-56_mcq_vqa_6", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-57_mcq_vqa_1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-57_mcq_vqa_6", "reason": "external_info_leak"}
+{"id": "M3D-58_mcq_vqa_1", "reason": "json_parse_failed"}
+{"id": "M3D-62_mcq_vqa_4", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-64_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-65_mcq_vqa_2", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-72_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-76_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-83_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-83_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-85_mcq_vqa_1", "reason": "json_parse_failed"}
+{"id": "M3D-86_mcq_vqa_2", "reason": "answer_changed"}
+{"id": "M3D-87_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-92_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-93_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-95_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-99_mcq_vqa_3", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-101_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-102_mcq_vqa_4", "reason": "external_info_leak"}
+{"id": "M3D-106_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-107_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-107_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-107_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-107_mcq_vqa_5", "reason": "external_info_leak"}
+{"id": "M3D-111_mcq_vqa_5", "reason": "external_info_leak"}
+{"id": "M3D-113_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-117_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-121_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-122_mcq_vqa_2", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-124_mcq_vqa_3", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-129_mcq_vqa_6", "reason": "answer_changed"}
+{"id": "M3D-132_mcq_vqa_2", "reason": "json_parse_failed"}
+{"id": "M3D-132_mcq_vqa_3", "reason": "question_changed"}
+{"id": "M3D-134_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-137_mcq_vqa_4", "reason": "question_changed"}
+{"id": "M3D-140_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-140_mcq_vqa_5", "reason": "external_info_leak"}
+{"id": "M3D-143_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-147_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-151_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-152_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-152_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-153_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-157_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-157_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-158_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-160_mcq_vqa_4", "reason": "json_parse_failed"}
+{"id": "M3D-162_mcq_vqa_4", "reason": "external_info_leak"}
+{"id": "M3D-164_mcq_vqa_4", "reason": "json_parse_failed"}
+{"id": "M3D-166_mcq_vqa_1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-166_mcq_vqa_3", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-168_mcq_vqa_2", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-169_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-169_mcq_vqa_2", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-171_mcq_vqa_6", "reason": "external_info_leak"}
+{"id": "M3D-173_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-179_mcq_vqa_3", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-179_mcq_vqa_5", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-185_mcq_vqa_5", "reason": "external_info_leak"}
+{"id": "M3D-188_mcq_vqa_3", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-189_mcq_vqa_4", "reason": "json_parse_failed"}
+{"id": "M3D-191_mcq_vqa_4", "reason": "external_info_leak"}
+{"id": "M3D-191_mcq_vqa_6", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-193_mcq_vqa_1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-194_mcq_vqa_3", "reason": "answer_changed"}
+{"id": "M3D-198_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-198_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-200_mcq_vqa_2", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-200_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-204_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-206_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-207_mcq_vqa_1", "reason": "json_parse_failed"}
+{"id": "M3D-210_mcq_vqa_1", "reason": "json_parse_failed"}
+{"id": "M3D-211_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-212_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-213_mcq_vqa_1", "reason": "answer_changed"}
+{"id": "M3D-214_mcq_vqa_1", "reason": "answer_changed"}
+{"id": "M3D-214_mcq_vqa_3", "reason": "json_parse_failed"}
+{"id": "M3D-216_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-216_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-217_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-217_mcq_vqa_4", "reason": "external_info_leak"}
+{"id": "M3D-221_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-222_mcq_vqa_6", "reason": "external_info_leak"}
+{"id": "M3D-223_mcq_vqa_5", "reason": "json_parse_failed"}
+{"id": "M3D-227_mcq_vqa_2", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-227_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-230_mcq_vqa_3", "reason": "answer_changed"}
+{"id": "M3D-231_mcq_vqa_2", "reason": "json_parse_failed"}
+{"id": "M3D-231_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-231_mcq_vqa_4", "reason": "answer_changed"}
+{"id": "M3D-232_mcq_vqa_1", "reason": "question_changed"}
+{"id": "M3D-236_mcq_vqa_2", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-236_mcq_vqa_6", "reason": "external_info_leak"}
+{"id": "M3D-237_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-238_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-239_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-242_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-242_mcq_vqa_4", "reason": "external_info_leak"}
+{"id": "M3D-244_mcq_vqa_5", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "M3D-245_mcq_vqa_2", "reason": "json_parse_failed"}
+{"id": "M3D-247_mcq_vqa_7", "reason": "external_info_leak"}
+{"id": "M3D-250_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-254_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-255_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-255_mcq_vqa_3", "reason": "external_info_leak"}
+{"id": "M3D-256_mcq_vqa_4", "reason": "question_changed"}
+{"id": "M3D-258_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-259_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-260_mcq_vqa_1", "reason": "external_info_leak"}
+{"id": "M3D-265_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-268_mcq_vqa_2", "reason": "external_info_leak"}
+{"id": "M3D-269_mcq_vqa_1", "reason": "external_info_leak"}

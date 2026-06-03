@@ -1,0 +1,13 @@
+{
+  "source_file": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_ctrate_cot_1000/ctrate_open_cot.jsonl",
+  "strict_filtered_file": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_ctrate_cot_1000/ctrate_open_cot.strict_filtered.jsonl",
+  "strict_rejected_file": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_ctrate_cot_1000/ctrate_open_cot.strict_rejected.jsonl",
+  "total": 854,
+  "kept": 769,
+  "rejected": 85,
+  "reason_counts": {
+    "report_leak": 44,
+    "reasoning_line_count_mismatch": 37,
+    "instruction_leak": 4
+  }
+}

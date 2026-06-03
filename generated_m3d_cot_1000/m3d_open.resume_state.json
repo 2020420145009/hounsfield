@@ -1,0 +1,13 @@
+{
+  "mode": "m3d_open",
+  "resume_enabled": true,
+  "status": "complete",
+  "total_discovered": 0,
+  "already_completed": 0,
+  "pending": 0,
+  "saved_this_run": 0,
+  "failed_this_run": 0,
+  "output_path": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_m3d_cot_1000/m3d_open_cot.jsonl",
+  "failed_path": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_m3d_cot_1000/m3d_open.failed.jsonl",
+  "last_completed_id": null
+}
