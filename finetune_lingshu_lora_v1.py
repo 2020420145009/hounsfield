@@ -20,7 +20,7 @@ import os
 sys.path.insert(0, '/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d')
 sys.path.insert(0, '/volume/med-train/users/shuyan/flemingvlcode/fzy/3d/benchmarks/3D-RAD/scripts')
 
-from med3d_image_utils import resolve_med_image_path
+from med3d_image_utils import resolve_med_image_path, load_med_volume, get_slice_indices, _slice_to_uint8
 from slice_cache_utils import load_or_create_cached_slice_images
 from prompt_contracts import CURRENT_INFERENCE_COT_PROMPT, build_ct_slice_description, normalize_question_text
 
@@ -110,7 +110,7 @@ class Med3DDataset(Dataset):
 
     def __getitem__(self, idx):
         sample = self.samples[idx]
-        image_path = resolve_med_image_path(sample['image'])
+        image_path = sample['image']
         convs = sample['conversations']
         human_turn = next((c['value'] for c in convs if c['from'] == 'human'), '')
         gpt_turn = next((c['value'] for c in convs if c['from'] == 'gpt'), '')
@@ -118,11 +118,13 @@ class Med3DDataset(Dataset):
         question = normalize_question_text(human_turn)
         answer = gpt_turn.strip()
 
-        images = load_or_create_cached_slice_images(
-            image_path,
-            num_slices=self.num_slices,
-            image_size=448,
-        )
+        vol, _ = load_med_volume(image_path)
+        indices = get_slice_indices(vol.shape[0], self.num_slices)
+        images = []
+        for i in indices:
+            arr = _slice_to_uint8(vol[i])
+            img = Image.fromarray(arr).convert('RGB').resize((448, 448))
+            images.append(img)
         return {'question': question, 'answer': answer, 'images': images}
 
 
