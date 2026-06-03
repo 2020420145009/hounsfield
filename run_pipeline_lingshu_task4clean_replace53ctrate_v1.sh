@@ -1,12 +1,15 @@
 #!/usr/bin/env bash
 # Pipeline: Lingshu-7B LoRA fine-tuning on m3d_ctrate_lidc_mix_v1_task4clean_replace53ctrate,
 # followed by 3D-RAD task4 benchmark evaluation.
+
+source /miniconda3/bin/activate /volume/med-train/users/shuyan/envs/medeval_for_internvl3
 set -euo pipefail
 
 MODEL_NAME=${1:-lingshu_m3d_ctrate_lidc_mix_v1_task4clean_replace53ctrate_lora}
 
 ROOT_DIR="/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d"
 PYTHON_BIN="${PYTHON_BIN:-/volume/med-train/users/shuyan/envs/medeval_for_internvl3/bin/python}"
+TORCHRUN_BIN="${TORCHRUN_BIN:-/volume/med-train/users/shuyan/envs/medeval_for_internvl3/bin/torchrun}"
 BASE_MODEL="${BASE_MODEL:-/volume/med-train/users/shuyan/Lingshu-7B}"
 BENCHMARK_ROOT="${BENCHMARK_ROOT:-/volume/med-train/users/shuyan/flemingvlcode/fzy/3d/benchmarks/3D-RAD}"
 BENCH_ENV="${BENCH_ENV:-/volume/med-train/users/shuyan/envs/medeval_for_internvl3}"
@@ -62,7 +65,7 @@ else
     echo "TRAIN_DATA=${TRAIN_DATA}"
 
     CUDA_VISIBLE_DEVICES="${TRAIN_GPU_IDS}" \
-    torchrun --nproc_per_node="${TRAIN_NPROC}" "${TRAIN_SCRIPT}" \
+    "${TORCHRUN_BIN}" --nproc_per_node="${TRAIN_NPROC}" "${TRAIN_SCRIPT}" \
         --model_path "${BASE_MODEL}" \
         --data_path "${TRAIN_DATA}" \
         --save_dir "${WORK_DIR}" \
