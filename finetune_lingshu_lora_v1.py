@@ -15,7 +15,13 @@ from torch.utils.data.distributed import DistributedSampler
 from tqdm import tqdm
 from transformers import AutoProcessor, Qwen2_5_VLForConditionalGeneration
 
-from med3d_image_utils import load_or_create_cached_slice_images, resolve_med_image_path
+import sys
+import os
+sys.path.insert(0, '/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d')
+sys.path.insert(0, '/volume/med-train/users/shuyan/flemingvlcode/fzy/3d/benchmarks/3D-RAD/scripts')
+
+from med3d_image_utils import resolve_med_image_path
+from slice_cache_utils import load_or_create_cached_slice_images
 from prompt_contracts import CURRENT_INFERENCE_COT_PROMPT, build_ct_slice_description, normalize_question_text
 
 parser = argparse.ArgumentParser(description='Lingshu-7B LoRA fine-tuning v1')
