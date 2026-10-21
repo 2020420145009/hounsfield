@@ -1,10 +1,10 @@
 # Hounsfield-CoT: Advancing 3D Medical VQA with Chain-of-Thought Reasoning
 
-[![Paper](https://img.shields.io/badge/Paper-BIBM%202024-red)](https://arxiv.org/abs/xxx)
+[![Paper](https://img.shields.io/badge/Paper-BIBM%202026-red)](https://arxiv.org/abs/xxx)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/xxx)
 [![Model](https://img.shields.io/badge/Model-HuggingFace-blue)](https://huggingface.co/xxx)
 
-> **Accepted at IEEE BIBM 2024** 🎉
+> **Accepted as Short Paper at IEEE BIBM 2026** 🎉
 
 This repository contains the official implementation of **Hounsfield-CoT**, a framework for advancing 3D medical visual question answering through chain-of-thought reasoning on CT scans.
 
@@ -17,8 +17,8 @@ This repository contains the official implementation of **Hounsfield-CoT**, a fr
 
 ## 🔥 Updates
 
-- **2024.12**: Paper accepted at IEEE BIBM 2024
-- **2024.12**: Initial release of code and dataset
+- **2026.10**: Paper accepted as Short Paper at IEEE BIBM 2026
+- **2026.10**: Initial release of code and dataset
 
 ## 🗂️ Repository Structure
 
@@ -148,12 +148,13 @@ Hounsfield3D extends Hounsfield2D with:
 If you find this work helpful, please consider citing:
 
 ```bibtex
-@inproceedings{fu2024hounsfield,
+@inproceedings{fu2026hounsfield,
   title={Hounsfield-CoT: Advancing 3D Medical VQA with Chain-of-Thought Reasoning},
   author={Fu, Zhuoyuan and Li, Zeshang and Zhang, Yiqiong and Lin, Hangui and Shu, Yan and Li, Yan and Li, Binyang and Zhao, Yaru},
-  booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-  year={2024},
-  organization={IEEE}
+  booktitle={2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  year={2026},
+  organization={IEEE},
+  note={Short Paper}
 }
 ```
 
