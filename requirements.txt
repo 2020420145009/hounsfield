@@ -1,0 +1,35 @@
+# Core ML frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.36.0
+accelerate>=0.25.0
+
+# Vision and image processing
+opencv-python>=4.8.0
+pillow>=10.0.0
+nibabel>=5.0.0  # For .nii medical image format
+pydicom>=2.4.0  # For DICOM medical images
+
+# LLM inference
+vllm>=0.2.7
+flash-attn>=2.3.0
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.66.0
+pyyaml>=6.0
+jsonlines>=4.0.0
+wandb>=0.15.0  # For experiment tracking
+
+# Optional: Medical imaging tools
+SimpleITK>=2.3.0
+monai>=1.3.0
