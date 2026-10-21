@@ -94,22 +94,38 @@ python evaluate.py \
 
 ## 📊 Results
 
-### Performance on 3D-RAD Benchmark
+### Performance on 3D-RAD and DeepChestVQA Benchmarks
 
-Our Hounsfield3D model achieves **state-of-the-art performance** on the 3D-RAD benchmark:
+Our **Hounsfield3D** model demonstrates substantial improvements after fine-tuning on the Hounsfield-CoT dataset:
 
-| Model | Task 1<br>(Plane) | Task 2<br>(Organ) | Task 3<br>(Abnormality) | Task 4<br>(Position) | Task 5<br>(Type) | Task 6<br>(Size) | **Average** |
-|-------|--------|--------|--------|--------|--------|--------|-----|
-| **Hounsfield3D** (Ours) | **99.24** | **77.59** | **59.04** | **95.19** | **83.85** | **82.59** | **82.92** |
-| Hounsfield2D | 97.71 | 68.97 | 50.77 | 86.54 | 77.69 | 71.11 | 75.47 |
-| M3D-LaMed | 94.66 | 70.69 | 53.85 | 84.62 | 73.08 | 67.41 | 74.05 |
-| RadFM | 92.37 | 58.62 | 46.15 | 75.00 | 64.62 | 53.33 | 65.02 |
+#### 3D-RAD Benchmark (Open-Ended VQA)
+
+| Model | T1 (Plane)<br>BERT-F1 / Acc | T2 (Organ)<br>BERT-F1 / Acc | T3 (Abnormality)<br>BERT-F1 / Acc | T4 (MCQ)<br>Acc |
+|-------|--------|--------|--------|--------|
+| M3D-RAD (Phi3-4B) | 0.922 / 46.0 | 0.907 / 41.9 | 0.948 / 15.4 | 82.3 |
+| Qwen2.5-VL-7B | 0.650 / 24.7 | 0.624 / 18.3 | 0.444 / 12.3 | 38.3 |
+| InternVL3-8B | 0.824 / 28.1 | 0.824 / 22.5 | 0.780 / 17.1 | 35.1 |
+| Med3DVLM-Qwen-2.5-7B | 0.868 / 21.0 | 0.874 / 23.5 | 0.908 / 26.6 | 47.0 |
+| HuatuoGPT-Vision-7B | 0.850 / 32.0 | 0.852 / 27.3 | 0.835 / 22.8 | 38.2 |
+| **Hounsfield2D (Base)** | 0.841 / 7.2 | 0.841 / 7.7 | 0.846 / 3.2 | 77.8 |
+| **Hounsfield3D (Ours, FT)** | **0.881 / 33.5** (+26.3↑) | **0.872 / 24.1** (+16.4↑) | **0.910 / 10.3** (+7.1↑) | **80.2** (+2.4↑) |
+
+#### DeepChestVQA Zero-Shot Accuracy (%)
+
+| Model | Recognition | Medical | Visual | Overall |
+|-------|--------|--------|--------|--------|
+| M3D-RAD (Phi3-4B) | 12.8 | 20.4 | 17.6 | 17.7 |
+| Qwen2.5-VL-7B | 32.2 | 32.3 | 20.5 | 27.1 |
+| Med3DVLM-Qwen-2.5-7B | 50.0 | 41.5 | 29.4 | 37.9 |
+| HuatuoGPT-Vision-7B | 55.6 | 41.2 | 27.4 | 38.0 |
+| **Hounsfield2D (Base)** | 51.1 | 39.7 | 26.6 | 36.4 |
+| **Hounsfield3D (Ours, FT)** | **50.6** | **45.1** (+5.4↑) | **29.9** (+3.3↑) | **39.6** (+3.2↑) |
 
 **Key Findings:**
-- **+7.45 average improvement** over Hounsfield2D baseline through 3D enhancement
-- **+17.87 average improvement** over previous SOTA (RadFM) 
-- Particularly strong on spatial reasoning tasks (Task 4: Position, Task 6: Size)
-- Benefits from CoT-enhanced training on 11.2k synthesized reasoning instances
+- **Large accuracy gains** on 3D-RAD tasks: +26.3%, +16.4%, +7.1% on T1-T3, demonstrating the effectiveness of CoT reasoning
+- **Improved zero-shot transfer** to DeepChestVQA: +3.2% overall accuracy, +5.4% on medical understanding
+- **Strong 3D spatial reasoning** with enhanced feature aggregation from volumetric CT data
+- Benefits from 11.2k high-quality CoT instances synthesized through Observer-Synthesizer pipeline
 
 ## 📦 Dataset
 
@@ -132,9 +148,9 @@ Hounsfield3D extends Hounsfield2D with:
 If you find this work helpful, please consider citing:
 
 ```bibtex
-@inproceedings{fang2024hounsfield,
+@inproceedings{fu2024hounsfield,
   title={Hounsfield-CoT: Advancing 3D Medical VQA with Chain-of-Thought Reasoning},
-  author={Fang, Ziyue and Wang, Shuyan and Miao, Bin and Zhong, Hui and Yu, Zhongtao},
+  author={Fu, Zhuoyuan and Li, Zeshang and Zhang, Yiqiong and Lin, Hangui and Shu, Yan and Li, Yan and Li, Binyang and Zhao, Yaru},
   booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
   year={2024},
   organization={IEEE}
