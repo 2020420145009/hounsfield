@@ -1,0 +1,14 @@
+{
+  "mode": "ctrate_open",
+  "resume_enabled": true,
+  "status": "complete",
+  "total_discovered": 2000,
+  "already_completed": 1997,
+  "pending": 3,
+  "saved_this_run": 0,
+  "failed_this_run": 3,
+  "output_path": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_ctrate_open_task4clean_2k/ctrate_open_cot.jsonl",
+  "failed_path": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_ctrate_open_task4clean_2k/ctrate_open.failed.jsonl",
+  "last_completed_id": "train_12644_a_1.nii.gz_open_vqa_L2",
+  "remaining_estimate": 0
+}

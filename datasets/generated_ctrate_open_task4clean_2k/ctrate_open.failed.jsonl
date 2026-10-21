@@ -1,0 +1,339 @@
+{"id": "train_11916_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11918_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_11919_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11927_a_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_11940_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_11940_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11941_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11946_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_11947_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11953_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_1196_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_1196_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1196_b_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1196_c_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1196_c_1.nii.gz_open_vqa_L3", "reason": "external_info_leak"}
+{"id": "train_11971_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11972_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_11975_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_1197_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11985_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11989_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_1198_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12000_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12003_c_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12007_b_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12009_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12010_a_1.nii.gz_open_vqa_L1", "reason": "json_parse_failed"}
+{"id": "train_12012_c_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12012_c_2.nii.gz_open_vqa_L3", "reason": "json_parse_failed"}
+{"id": "train_12017_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_1201_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12023_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12027_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12029_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12031_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12032_a_1.nii.gz_open_vqa_L1", "reason": "answer_changed"}
+{"id": "train_12034_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12034_c_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12036_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12037_a_1.nii.gz_open_vqa_L1", "reason": "json_parse_failed"}
+{"id": "train_12037_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12037_b_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12039_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12039_e_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12044_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12052_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12055_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12056_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12067_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12069_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_1206_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12070_a_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12072_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12074_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12078_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12081_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12084_a_2.nii.gz_open_vqa_L1", "reason": "answer_changed"}
+{"id": "train_12087_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12088_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12088_a_2.nii.gz_open_vqa_L3", "reason": "external_info_leak"}
+{"id": "train_1208_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12095_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12096_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12097_b_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_1209_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1209_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12108_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_1210_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12110_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_1211_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12124_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12130_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12136_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1213_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_1213_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12147_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12148_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12150_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12157_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12157_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12157_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12159_a_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12161_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12161_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12162_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12162_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12164_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12174_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12175_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12175_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_1217_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12184_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12187_a_1.nii.gz_open_vqa_L1", "reason": "json_parse_failed"}
+{"id": "train_1218_b_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12192_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12198_b_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12201_a_5.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12205_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12208_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12209_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1220_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12215_b_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12216_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12226_a_3.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12227_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12230_a_2.nii.gz_open_vqa_L1", "reason": "json_parse_failed"}
+{"id": "train_12233_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12236_a_1.nii.gz_open_vqa_L1", "reason": "answer_changed"}
+{"id": "train_12236_b_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12237_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12242_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12242_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12243_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12245_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12245_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12247_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12251_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12251_b_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12251_b_1.nii.gz_open_vqa_L3", "reason": "external_info_leak"}
+{"id": "train_12251_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12255_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12258_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12265_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12271_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12278_a_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_1227_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12281_a_3.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12282_a_1.nii.gz_open_vqa_L1", "reason": "json_parse_failed"}
+{"id": "train_12285_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12289_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12290_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12295_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12302_a_3.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12313_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12322_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12329_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12330_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12332_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12332_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12339_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12340_c_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12345_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12345_a_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12348_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12352_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12352_a_1.nii.gz_open_vqa_L3", "reason": "json_parse_failed"}
+{"id": "train_12358_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12359_b_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12363_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12364_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12368_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12372_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12373_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12373_a_3.nii.gz_open_vqa_L1", "reason": "answer_changed"}
+{"id": "train_12373_a_5.nii.gz_open_vqa_L1", "reason": "json_parse_failed"}
+{"id": "train_12376_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12378_b_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12379_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12379_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12380_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12381_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12385_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12396_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12398_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12399_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_1239_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12402_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12412_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12415_a_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12416_b_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12416_b_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12418_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12418_a_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_1241_d_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12426_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_1242_c_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_1242_c_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12431_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12437_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1243_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12450_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12458_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12458_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12460_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1246_a_1.nii.gz_open_vqa_L1", "reason": "json_parse_failed"}
+{"id": "train_1246_c_1.nii.gz_open_vqa_L1", "reason": "json_parse_failed"}
+{"id": "train_12471_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12472_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12473_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12475_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12476_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12476_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12479_d_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12488_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12489_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12489_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12493_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12495_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12497_b_1.nii.gz_open_vqa_L1", "reason": "json_parse_failed"}
+{"id": "train_12504_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12511_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12512_b_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12512_d_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12516_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12516_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12516_b_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12521_a_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12521_b_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12522_b_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12522_b_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12523_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12525_a_5.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12532_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12536_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12537_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12537_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1253_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12550_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12554_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12554_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12559_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12564_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12565_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12566_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12567_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12571_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12576_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12577_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12579_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1257_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12580_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12582_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12582_c_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12584_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12588_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12595_a_1.nii.gz_open_vqa_L2", "reason": "external_info_leak"}
+{"id": "train_12607_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12607_b_1.nii.gz_open_vqa_L2", "reason": "answer_changed"}
+{"id": "train_12613_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12613_b_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12615_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12618_b_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12618_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1261_c_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12622_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12622_a_1.nii.gz_open_vqa_L3", "reason": "external_info_leak"}
+{"id": "train_12628_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12636_c_2.nii.gz_open_vqa_L1", "reason": "json_parse_failed"}
+{"id": "train_1263_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12644_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12649_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12653_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12655_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12656_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12657_a_2.nii.gz_open_vqa_L3", "reason": "json_parse_failed"}
+{"id": "train_12667_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11927_a_2.nii.gz_open_vqa_L3", "reason": "json_parse_failed"}
+{"id": "train_11941_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11946_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_11947_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1196_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_11971_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12010_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12012_c_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12031_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12037_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12055_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12072_a_2.nii.gz_open_vqa_L2", "reason": "answer_changed"}
+{"id": "train_12088_a_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_1208_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12096_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12157_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12164_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_1218_b_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12205_b_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12216_a_1.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12236_a_1.nii.gz_open_vqa_L1", "reason": "answer_changed"}
+{"id": "train_12236_b_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12242_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12243_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12245_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12255_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12322_a_2.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12330_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12378_b_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12381_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12385_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12399_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12415_a_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12416_b_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12493_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12512_b_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12512_d_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12521_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12537_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12559_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12564_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12582_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12582_c_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12618_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12622_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12644_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11941_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11947_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12088_a_2.nii.gz_open_vqa_L3", "reason": "external_info_leak"}
+{"id": "train_12236_a_1.nii.gz_open_vqa_L1", "reason": "answer_changed"}
+{"id": "train_12245_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12330_a_1.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12381_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12415_a_2.nii.gz_open_vqa_L3", "reason": "invalid_reasoning_lines dimension=Comprehensive Diagnosis"}
+{"id": "train_12521_b_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12559_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12582_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12644_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_11947_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12088_a_2.nii.gz_open_vqa_L3", "reason": "external_info_leak"}
+{"id": "train_12236_a_1.nii.gz_open_vqa_L1", "reason": "answer_changed"}
+{"id": "train_12245_a_2.nii.gz_open_vqa_L2", "reason": "json_parse_failed"}
+{"id": "train_12644_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12088_a_2.nii.gz_open_vqa_L3", "reason": "external_info_leak"}
+{"id": "train_12236_a_1.nii.gz_open_vqa_L1", "reason": "external_info_leak"}
+{"id": "train_12245_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12644_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12088_a_2.nii.gz_open_vqa_L3", "reason": "external_info_leak"}
+{"id": "train_12236_a_1.nii.gz_open_vqa_L1", "reason": "external_info_leak"}
+{"id": "train_12245_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12644_a_1.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12088_a_2.nii.gz_open_vqa_L3", "reason": "external_info_leak"}
+{"id": "train_12236_a_1.nii.gz_open_vqa_L1", "reason": "answer_changed"}
+{"id": "train_12245_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12088_a_2.nii.gz_open_vqa_L3", "reason": "external_info_leak"}
+{"id": "train_12236_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12245_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12088_a_2.nii.gz_open_vqa_L3", "reason": "external_info_leak"}
+{"id": "train_12236_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12245_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}
+{"id": "train_12088_a_2.nii.gz_open_vqa_L3", "reason": "external_info_leak"}
+{"id": "train_12236_a_1.nii.gz_open_vqa_L1", "reason": "invalid_reasoning_lines dimension=Rapid Triage"}
+{"id": "train_12245_a_2.nii.gz_open_vqa_L2", "reason": "invalid_reasoning_lines dimension=Standard Assessment"}

@@ -1,0 +1,14 @@
+{
+  "mode": "ctrate_mcq",
+  "resume_enabled": true,
+  "status": "complete",
+  "total_discovered": 1000,
+  "already_completed": 0,
+  "pending": 1000,
+  "saved_this_run": 0,
+  "failed_this_run": 1000,
+  "output_path": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_ctrate_cot_1000/ctrate_mcq_cot.jsonl",
+  "failed_path": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_ctrate_cot_1000/ctrate_mcq.failed.jsonl",
+  "last_completed_id": null,
+  "remaining_estimate": 0
+}

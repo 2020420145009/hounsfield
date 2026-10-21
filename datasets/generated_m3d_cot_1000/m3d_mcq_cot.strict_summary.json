@@ -1,0 +1,14 @@
+{
+  "source_file": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_m3d_cot_1000/m3d_mcq_cot.jsonl",
+  "strict_filtered_file": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_m3d_cot_1000/m3d_mcq_cot.strict_filtered.jsonl",
+  "strict_rejected_file": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_m3d_cot_1000/m3d_mcq_cot.strict_rejected.jsonl",
+  "total": 861,
+  "kept": 282,
+  "rejected": 579,
+  "reason_counts": {
+    "mcq_no_option_traversal": 434,
+    "reasoning_line_count_mismatch": 56,
+    "answer_first_cheating": 124,
+    "report_leak": 6
+  }
+}

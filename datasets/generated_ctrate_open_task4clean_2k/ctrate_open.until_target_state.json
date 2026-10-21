@@ -1,0 +1,9 @@
+{
+  "mode": "ctrate_open",
+  "target_count": 2000,
+  "output_path": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/generated_ctrate_open_task4clean_2k/ctrate_open_cot.jsonl",
+  "status": "stalled",
+  "current_count": 1997,
+  "rounds_completed": 10,
+  "stall_rounds": 3
+}

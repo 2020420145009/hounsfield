@@ -1,0 +1,22 @@
+{
+  "output_jsonl": "/volume/med-train/users/shuyan/flemingvlcode/flemingvl8b_3d/lidc_only_dataset_v1/lidc_only_mcq_open_v1.jsonl",
+  "total": 548,
+  "task_type_counts": {
+    "mcq_vqa": 274,
+    "open_vqa": 274
+  },
+  "dataset_source_counts": {
+    "lidc:mcq_only": 274,
+    "lidc:open_only": 274
+  },
+  "mcq_answer_counts": {
+    "B": 82,
+    "A": 157,
+    "C": 23,
+    "D": 12
+  },
+  "paths": {
+    "lidc_mcq": "/volume/med-train/users/shuyan/flemingvlcode/fzy/3d/datasets/LIDC-IDRI/Cleaned_3D_CoT_Dataset/medical_lidc_mcq_vqa_dataset4.json",
+    "lidc_open": "/volume/med-train/users/shuyan/flemingvlcode/fzy/3d/datasets/LIDC-IDRI/Cleaned_3D_CoT_Dataset/medical_lidc_open_vqa_dataset4.json"
+  }
+}
