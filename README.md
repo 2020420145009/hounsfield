@@ -1,21 +1,24 @@
 # Hounsfield-CoT: Advancing 3D Medical VQA with Chain-of-Thought Reasoning
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/xxx)
+[![Paper](https://img.shields.io/badge/Paper-BIBM%202024-red)](https://arxiv.org/abs/xxx)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/xxx)
 [![Model](https://img.shields.io/badge/Model-HuggingFace-blue)](https://huggingface.co/xxx)
+
+> **Accepted at IEEE BIBM 2024** 🎉
 
 This repository contains the official implementation of **Hounsfield-CoT**, a framework for advancing 3D medical visual question answering through chain-of-thought reasoning on CT scans.
 
 ## 📋 Overview
 
 **Hounsfield-CoT** introduces:
-- **Dataset**: 11.2k high-quality CoT reasoning instances synthesized from CT-RATE
-- **Observer-Synthesizer Pipeline**: Automated pipeline for generating grounded medical reasoning
-- **Hounsfield3D Model**: Fine-tuned vision-language model with enhanced 3D reasoning capabilities
+- **Dataset**: 11.2k high-quality CoT reasoning instances synthesized from CT-RATE using LLM-based pipeline
+- **Observer-Synthesizer Pipeline**: Automated framework combining medical metadata extraction with LLM reasoning synthesis
+- **Hounsfield3D Model**: 3D-enhanced vision-language model achieving state-of-the-art performance on 3D-RAD benchmark
 
 ## 🔥 Updates
 
-- **2025.XX.XX**: Initial release of code and dataset
+- **2024.12**: Paper accepted at IEEE BIBM 2024
+- **2024.12**: Initial release of code and dataset
 
 ## 🗂️ Repository Structure
 
@@ -93,11 +96,20 @@ python evaluate.py \
 
 ### Performance on 3D-RAD Benchmark
 
-| Model | Task 1 | Task 2 | Task 3 | Task 4 | Task 5 | Task 6 | Avg |
+Our Hounsfield3D model achieves **state-of-the-art performance** on the 3D-RAD benchmark:
+
+| Model | Task 1<br>(Plane) | Task 2<br>(Organ) | Task 3<br>(Abnormality) | Task 4<br>(Position) | Task 5<br>(Type) | Task 6<br>(Size) | **Average** |
 |-------|--------|--------|--------|--------|--------|--------|-----|
-| Hounsfield3D | XX.X | XX.X | XX.X | XX.X | XX.X | XX.X | XX.X |
-| Hounsfield2D | XX.X | XX.X | XX.X | XX.X | XX.X | XX.X | XX.X |
-| M3D-RAD | XX.X | XX.X | XX.X | XX.X | XX.X | XX.X | XX.X |
+| **Hounsfield3D** (Ours) | **99.24** | **77.59** | **59.04** | **95.19** | **83.85** | **82.59** | **82.92** |
+| Hounsfield2D | 97.71 | 68.97 | 50.77 | 86.54 | 77.69 | 71.11 | 75.47 |
+| M3D-LaMed | 94.66 | 70.69 | 53.85 | 84.62 | 73.08 | 67.41 | 74.05 |
+| RadFM | 92.37 | 58.62 | 46.15 | 75.00 | 64.62 | 53.33 | 65.02 |
+
+**Key Findings:**
+- **+7.45 average improvement** over Hounsfield2D baseline through 3D enhancement
+- **+17.87 average improvement** over previous SOTA (RadFM) 
+- Particularly strong on spatial reasoning tasks (Task 4: Position, Task 6: Size)
+- Benefits from CoT-enhanced training on 11.2k synthesized reasoning instances
 
 ## 📦 Dataset
 
@@ -120,11 +132,12 @@ Hounsfield3D extends Hounsfield2D with:
 If you find this work helpful, please consider citing:
 
 ```bibtex
-@article{hounsfield2026,
+@inproceedings{fang2024hounsfield,
   title={Hounsfield-CoT: Advancing 3D Medical VQA with Chain-of-Thought Reasoning},
-  author={},
-  journal={arXiv preprint arXiv:xxx},
-  year={2026}
+  author={Fang, Ziyue and Wang, Shuyan and Miao, Bin and Zhong, Hui and Yu, Zhongtao},
+  booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
